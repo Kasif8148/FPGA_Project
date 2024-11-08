@@ -4,13 +4,15 @@ Course name- **System design with FPGA (VLS- 505)**
 
 Instructor- 
 
-Prof.  Nanditha Rao (Assistant Professor)<br/>
+**Prof.  Nanditha Rao (Assistant Professor)**
 
-CEEMS Lab<br/>
+CEEMS Lab
 
-International Institute of Information Technology – Bangalore<br/>
+International Institute of Information Technology – Bangalore
 
-Paper name- Hardware Implementation of POSITs and Their Application in FPGAs<br/>
+Paper Implemented- **Hardware Implementation of POSITs and Their Application in FPGAs**
+
+
 
 
 
